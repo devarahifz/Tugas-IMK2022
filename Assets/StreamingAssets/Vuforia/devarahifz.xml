@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="images" size="100.000000 56.187290" />
+    <ImageTarget name="eagle_art_black_paint_99790_1920x1080" size="100.000000 56.250000" />
+    <ImageTarget name="jus" size="100.000000 100.000000" />
+    <ImageTarget name="Jembatan1" size="100.000000 56.250000" />
+  </Tracking>
+</QCARConfig>
